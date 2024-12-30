@@ -1,3 +1,6 @@
 # Git Commands List Every Programmer Should Know
-![name-of-you-image](https://res.cloudinary.com/practicaldev/image/fetch/s--9SbFb0NX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.cloudsavvyit.com/thumbcache/0/0/5b8ff1fbf94a3ecddbaa8db6b389c09a/p/uploads/2019/10/e713ed70-1.png)
+
+![image](https://github.com/user-attachments/assets/eccee0aa-01b6-4cf1-a8b8-7bff107f8466)
+
+
 Git is an important part of daily programming and is commonly used in the software industry. Since you can use a lot of different commands, mastering Git needs time. But some commands are more commonly used. So I'm going to share the most useful Git commands in this post that every developer should know.
