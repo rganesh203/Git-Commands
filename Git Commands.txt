@@ -1,4 +1,4 @@
-Useful Git Commands List
+--Useful Git Commands List
 Command	Description
 git init	Initialize a local Git repository
 git clone repo_url	Clone public repository
